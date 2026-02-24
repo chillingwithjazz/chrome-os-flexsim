@@ -1,0 +1,5 @@
+{
+  "name": "ChromeOS Flex Simulator",
+  "description": "A web-based simulator of ChromeOS Flex with basic productivity apps.",
+  "requestFramePermissions": []
+}
